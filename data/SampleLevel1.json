@@ -4,13 +4,13 @@
     "author": "wPopoff",
     "creators": ["Neomarbilan"],
     "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verification": "https://www.youtube.com/watch?v=0xQia-RHC0E",
     "percentToQualify": 65,
     "password": "No password needed",
     "records": [
         {
             "user": "wPopoff -> verifier",
-            "link": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+            "link": "https://www.youtube.com/watch?v=0xQia-RHC0E",
             "percent": 100,
             "hz": 360
         }
